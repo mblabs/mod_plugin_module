@@ -2,8 +2,8 @@
 <extension type="module" version="1.7" client="site" method="upgrade">
 	<name>Plugin in module</name>
 	<author>Mblabs</author>
-	<creationDate>march 2010</creationDate>
-	<copyright>Copyright (C) 2008-2010. All rights reserved.</copyright>
+	<creationDate>january 2012</creationDate>
+	<copyright>Copyright (C) 2008-2012. All rights reserved.</copyright>
 	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
 	<authorEmail>webmaster@mblabs.net</authorEmail>
 	<authorUrl>www.mblabs.net</authorUrl>
